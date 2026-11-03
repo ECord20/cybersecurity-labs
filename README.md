@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Laboratorios de Ciberseguridad - Portafolio Práctico
-=======
+
 # Cybersecurity Labs Portfolio 🛡️
 
 Welcome to my personal cybersecurity practical portfolio repository (`cybersecurity-labs`). This repository documents a comprehensive hands-on laboratory series covering offensive security, network monitoring, incident response, and system auditing.
@@ -36,4 +35,3 @@ These labs are designed and executed under resource-optimized and secure conditi
 
 ---
 *⚠️ Disclaimer: All offensive security simulations, vulnerability assessments, and exploits documented in this repository are performed strictly within controlled, isolated laboratory environments for educational and defensive skill-building purposes.*
->>>>>>> 67448fe3998702b236e7b8945f671f9b2a24cf3d
